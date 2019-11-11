@@ -6,8 +6,8 @@ class building {
      * @var string $name 建物名
      * @var int $height 建物高さ
      */
-     private $name;
-     private $height;
+     protected $name;
+     protected $height;
     //constructor
     
     /**
